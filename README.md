@@ -1,9 +1,9 @@
-# Real-Time Wildfire Detection Challenge
+# Real-Time Wildfire Detection
 
 This project focuses on identifying wildfires using image classification techniques. It aims to classify images based on the presence of fire using Convolutional Neural Networks (CNN).
 
 ### 🚀 Live Demo
-You can explore the live demo of the model here: https://huggingface.co/spaces/bdaser/Fire
+Access the tool here: **[Wildfire Detection App](https://huggingface.co/spaces/bdaser/Fire)**
 
 ### 📊 Dataset and Preprocessing
 The dataset contains 699 images with and without fire. The processing steps include:
